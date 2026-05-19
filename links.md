@@ -93,7 +93,7 @@ Facebook:
 ## Chemical Data Science & Automation
 
 LinkedIn: https://www.linkedin.com/company/110200145/admin/dashboard/
-Facebook: 
+Facebook: https://www.facebook.com/profile.php?id=61590204503457
 ## Chemistry AI & Machine-Learning Applications
 
 LinkedIn: https://www.linkedin.com/company/110198146/admin/dashboard/
@@ -101,11 +101,11 @@ Facebook:
 ## The Chemistry of Materials
 
 LinkedIn: https://www.linkedin.com/company/109543039/admin/notifications/all/
-Facebook: 
+Facebook: https://www.facebook.com/profile.php?id=61589541525866
 ## Sustainable Materials & Circular Chemistry
 
 LinkedIn: https://www.linkedin.com/company/110198148/admin/dashboard/
-Facebook: 
+Facebook: https://www.facebook.com/profile.php?id=61589779618811
 ## The Supramolecular Chemistry
 
 LinkedIn: https://www.linkedin.com/company/109541035/admin/dashboard/
@@ -125,7 +125,7 @@ Facebook:
 ## The Industrial Chemistry
 
 LinkedIn: https://www.linkedin.com/company/109820777/admin/dashboard/
-Facebook: 
+Facebook: https://www.facebook.com/profile.php?id=61587130199073
 ## The Surface Chemistry
 
 LinkedIn: https://www.linkedin.com/company/110632021/admin/dashboard/
@@ -182,56 +182,75 @@ Facebook:
 
 LinkedIn: https://www.linkedin.com/company/111365924/admin/dashboard/
 Facebook: 
-## 
+## The Bioorganic Chemistry
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/110637045/admin/dashboard/
 Facebook: 
-## 
+## The Thermochemistry
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/115805044/admin/dashboard/
 Facebook: 
-## 
+## The Chemical Engineering
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112032374/admin/dashboard/
 Facebook: 
-## 
+## The Retrosynthesis
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112835037/admin/dashboard/
 Facebook: 
-## 
+## The Machines Learning
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112560598/admin/dashboard/
 Facebook: 
-## 
+## The Catalytic Chemistry
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/114363982/admin/dashboard/
 Facebook: 
-## 
+## The Automation
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112483981/admin/dashboard/
 Facebook: 
-## 
+## The Enthropy in Chemistry
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/111120361/admin/dashboard/
 Facebook: 
-## 
+## The Robot
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112193906/admin/dashboard/
 Facebook: 
-## 
+## The Data Science
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/112563601/admin/dashboard/
 Facebook: 
-## 
+## The Robotics
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/111974517/admin/dashboard/
 Facebook: 
-## 
+## The Economy Today
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/115999804/admin/dashboard/
 Facebook: 
-## 
+## The Biology
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/company/111983984/admin/dashboard/
 Facebook: 
+## The Chemical Kinetics
 
+LinkedIn: https://www.linkedin.com/company/112274897/admin/dashboard/
+Facebook: 
+## The Marine Chemistry
+
+LinkedIn: https://www.linkedin.com/company/115803232/admin/dashboard/
+Facebook: 
+## The Chemistry News
+
+LinkedIn: https://www.linkedin.com/company/109816820/admin/dashboard/
+Facebook: https://www.facebook.com/profile.php?id=61586947119714
+## The Chemistry
+
+LinkedIn: https://www.linkedin.com/company/112177278/admin/dashboard/
+Facebook: 
+## The Environmental Chemistry
+
+LinkedIn: https://www.linkedin.com/company/114304070/admin/dashboard/
+Facebook: 
